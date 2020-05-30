@@ -1,0 +1,17 @@
+E:\programing.term4-master\Lab3\bin\Debug\Lab3.exe.config
+E:\programing.term4-master\Lab3\bin\Debug\Lab3.exe
+E:\programing.term4-master\Lab3\bin\Debug\Lab3.pdb
+E:\programing.term4-master\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+E:\programing.term4-master\Lab3\obj\Debug\Lab3.Exercise1.WіnQuestіonForm.resources
+E:\programing.term4-master\Lab3\obj\Debug\Lab3.Exercise2.TestListForm.resources
+E:\programing.term4-master\Lab3\obj\Debug\Lab3.Exercise3And4.MdiApplication.resources
+E:\programing.term4-master\Lab3\obj\Debug\Lab3.Exercise5.WinContainer.resources
+E:\programing.term4-master\Lab3\obj\Debug\Lab3.Exercise6And7.Form2.resources
+E:\programing.term4-master\Lab3\obj\Debug\Lab3.Exercise6And7.WinLinkLabel.resources
+E:\programing.term4-master\Lab3\obj\Debug\Lab3.Exercise8And9.RegistrationForm.resources
+E:\programing.term4-master\Lab3\obj\Debug\Lab3.MainForm.resources
+E:\programing.term4-master\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+E:\programing.term4-master\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+E:\programing.term4-master\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+E:\programing.term4-master\Lab3\obj\Debug\Lab3.exe
+E:\programing.term4-master\Lab3\obj\Debug\Lab3.pdb

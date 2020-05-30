@@ -1,0 +1,17 @@
+C:\Users\Maksim Bukhalo\source\repos\GUI2\GUI2\bin\Debug\GUI2.exe.config
+C:\Users\Maksim Bukhalo\source\repos\GUI2\GUI2\bin\Debug\GUI2.exe
+C:\Users\Maksim Bukhalo\source\repos\GUI2\GUI2\bin\Debug\GUI2.pdb
+C:\Users\Maksim Bukhalo\source\repos\GUI2\GUI2\obj\Debug\GUI2.csprojAssemblyReference.cache
+C:\Users\Maksim Bukhalo\source\repos\GUI2\GUI2\obj\Debug\Lab3.Exercise1.WіnQuestіonForm.resources
+C:\Users\Maksim Bukhalo\source\repos\GUI2\GUI2\obj\Debug\Lab3.Exercise2.TestListForm.resources
+C:\Users\Maksim Bukhalo\source\repos\GUI2\GUI2\obj\Debug\Lab3.Exercise3And4.MdiApplication.resources
+C:\Users\Maksim Bukhalo\source\repos\GUI2\GUI2\obj\Debug\Lab3.Exercise5.WinContainer.resources
+C:\Users\Maksim Bukhalo\source\repos\GUI2\GUI2\obj\Debug\Lab3.Exercise6And7.Form2.resources
+C:\Users\Maksim Bukhalo\source\repos\GUI2\GUI2\obj\Debug\Lab3.Exercise6And7.WinLinkLabel.resources
+C:\Users\Maksim Bukhalo\source\repos\GUI2\GUI2\obj\Debug\Lab3.Exercise8And9.RegistrationForm.resources
+C:\Users\Maksim Bukhalo\source\repos\GUI2\GUI2\obj\Debug\Lab3.MainForm.resources
+C:\Users\Maksim Bukhalo\source\repos\GUI2\GUI2\obj\Debug\GUI2.Properties.Resources.resources
+C:\Users\Maksim Bukhalo\source\repos\GUI2\GUI2\obj\Debug\GUI2.csproj.GenerateResource.cache
+C:\Users\Maksim Bukhalo\source\repos\GUI2\GUI2\obj\Debug\GUI2.csproj.CoreCompileInputs.cache
+C:\Users\Maksim Bukhalo\source\repos\GUI2\GUI2\obj\Debug\GUI2.exe
+C:\Users\Maksim Bukhalo\source\repos\GUI2\GUI2\obj\Debug\GUI2.pdb
