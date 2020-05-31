@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace Lab3.Exercise5
+namespace GUI2.Exercise5
 {
     public partial class WinContainer : Form
     {
@@ -49,5 +49,5 @@ namespace Lab3.Exercise5
         {
             splitContainer1.Panel1Collapsed = !splitContainer1.Panel1Collapsed;
         }
-    }
+	}
 }

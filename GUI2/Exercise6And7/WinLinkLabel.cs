@@ -1,6 +1,6 @@
 ﻿using System.Windows.Forms;
 
-namespace Lab3.Exercise6And7
+namespace GUI2.Exercise6And7
 {
     public partial class WinLinkLabel : Form
     {
@@ -29,5 +29,5 @@ namespace Lab3.Exercise6And7
             System.Diagnostics.Process.Start("www.google.com");
             linkLabel2.LinkVisited = true;
         }
-    }
+	}
 }

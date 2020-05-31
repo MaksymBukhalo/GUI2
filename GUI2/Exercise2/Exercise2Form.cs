@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace Lab3.Exercise2
+namespace GUI2.Exercise2
 {
     public partial class TestListForm : Form
     {
@@ -31,10 +31,5 @@ namespace Lab3.Exercise2
         }
 
         private void Sort_Click(object sender, EventArgs e) => memberLіst.Sorted = true;
-
-		private void TestListForm_Load(object sender, EventArgs e)
-		{
-
-		}
 	}
 }

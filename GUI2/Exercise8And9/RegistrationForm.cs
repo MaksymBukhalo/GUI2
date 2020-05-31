@@ -2,7 +2,7 @@
 using System.Drawing;
 using System.Windows.Forms;
 
-namespace Lab3.Exercise8And9
+namespace GUI2.Exercise8And9
 {
     public partial class RegistrationForm : Form
     {

@@ -1,6 +1,6 @@
 ﻿using System.Windows.Forms;
 
-namespace Lab3.Exercise6And7
+namespace GUI2.Exercise6And7
 {
     public partial class Form2 : Form
     {
@@ -8,5 +8,5 @@ namespace Lab3.Exercise6And7
         {
             InitializeComponent();
         }
-    }
+	}
 }

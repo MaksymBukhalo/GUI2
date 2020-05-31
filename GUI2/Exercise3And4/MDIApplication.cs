@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace Lab3.Exercise3And4
+namespace GUI2.Exercise3And4
 {
     public partial class MdiApplication : Form
     {
@@ -112,5 +112,5 @@ namespace Lab3.Exercise3And4
                     break;
             }
         }
-    }
+	}
 }

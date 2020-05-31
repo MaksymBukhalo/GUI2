@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace Lab3.Exercise1
+namespace GUI2.Exercise1
 {
     public partial class WіnQuestіonForm : Form
     {
@@ -34,10 +34,5 @@ namespace Lab3.Exercise1
         {
             btnyes.Focus();
         }
-
-		private void WіnQuestіonForm_Load(object sender, EventArgs e)
-		{
-
-		}
 	}
 }

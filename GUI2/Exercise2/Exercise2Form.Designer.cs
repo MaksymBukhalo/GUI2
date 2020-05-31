@@ -1,4 +1,4 @@
-﻿namespace Lab3.Exercise2
+﻿namespace GUI2.Exercise2
 {
 	partial class TestListForm
 	{
@@ -58,11 +58,11 @@
 			// peopleLіst
 			// 
 			this.peopleLіst.Items.AddRange(new object[] {
-            "Іван Іванович Іванов",
-            "Максим Максимович Максимов",
-            "Вадим Вадимович Вадімов",
-            "Петр Петровіч Петренко",
-            "Василь Василіч Васильев"});
+			"Іван Іванович Іванов",
+			"Максим Максимович Максимов",
+			"Вадим Вадимович Вадімов",
+			"Петр Петровіч Петренко",
+			"Василь Василіч Васильев"});
 			this.peopleLіst.Location = new System.Drawing.Point(12, 135);
 			this.peopleLіst.Name = "peopleLіst";
 			this.peopleLіst.Size = new System.Drawing.Size(310, 24);
@@ -111,7 +111,6 @@
 			this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
 			this.Name = "TestListForm";
 			this.Text = "Робота зі списками";
-			this.Load += new System.EventHandler(this.TestListForm_Load);
 			this.groupBox1.ResumeLayout(false);
 			this.ResumeLayout(false);
 

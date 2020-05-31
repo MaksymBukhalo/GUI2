@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace Lab3
+namespace GUI2
 {
     public partial class MainForm : Form
     {
@@ -38,5 +38,5 @@ namespace Lab3
         {
             new Exercise8And9.RegistrationForm().ShowDialog();
         }
-    }
+	}
 }
